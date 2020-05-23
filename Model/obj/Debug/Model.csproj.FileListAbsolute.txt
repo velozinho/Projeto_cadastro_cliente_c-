@@ -1,0 +1,17 @@
+C:\Users\lveloso2\source\repos\Projeto_Cadastro_Clientes\Model\bin\Debug\Model.dll.config
+C:\Users\lveloso2\source\repos\Projeto_Cadastro_Clientes\Model\bin\Debug\Model.dll
+C:\Users\lveloso2\source\repos\Projeto_Cadastro_Clientes\Model\bin\Debug\Model.pdb
+C:\Users\lveloso2\source\repos\Projeto_Cadastro_Clientes\Model\bin\Debug\EntityFramework.dll
+C:\Users\lveloso2\source\repos\Projeto_Cadastro_Clientes\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lveloso2\source\repos\Projeto_Cadastro_Clientes\Model\bin\Debug\System.Data.SQLite.dll
+C:\Users\lveloso2\source\repos\Projeto_Cadastro_Clientes\Model\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\lveloso2\source\repos\Projeto_Cadastro_Clientes\Model\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\lveloso2\source\repos\Projeto_Cadastro_Clientes\Model\bin\Debug\EntityFramework.xml
+C:\Users\lveloso2\source\repos\Projeto_Cadastro_Clientes\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lveloso2\source\repos\Projeto_Cadastro_Clientes\Model\bin\Debug\System.Data.SQLite.xml
+C:\Users\lveloso2\source\repos\Projeto_Cadastro_Clientes\Model\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\lveloso2\source\repos\Projeto_Cadastro_Clientes\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\lveloso2\source\repos\Projeto_Cadastro_Clientes\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\lveloso2\source\repos\Projeto_Cadastro_Clientes\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\lveloso2\source\repos\Projeto_Cadastro_Clientes\Model\obj\Debug\Model.dll
+C:\Users\lveloso2\source\repos\Projeto_Cadastro_Clientes\Model\obj\Debug\Model.pdb
